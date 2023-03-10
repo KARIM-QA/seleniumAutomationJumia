@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T15:39:09 CET" name="Default suite" finished-at="2023-03-10T15:39:21 CET" duration-ms="12089">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T15:39:09 CET" name="Default test" finished-at="2023-03-10T15:39:21 CET" duration-ms="12089">
+      <class name="testcases.JumiaTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:testcases.JumiaTest@729d991e]" started-at="2023-03-10T15:39:09 CET" name="Setup" finished-at="2023-03-10T15:39:14 CET" duration-ms="4671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="FunctionalTestingJumia()[pri:0, instance:testcases.JumiaTest@729d991e]" started-at="2023-03-10T15:39:14 CET" name="FunctionalTestingJumia" finished-at="2023-03-10T15:39:21 CET" duration-ms="6752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FunctionalTestingJumia -->
+        <test-method is-config="true" signature="Sortir()[pri:0, instance:testcases.JumiaTest@729d991e]" started-at="2023-03-10T15:39:21 CET" name="Sortir" finished-at="2023-03-10T15:39:21 CET" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sortir -->
+      </class> <!-- testcases.JumiaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
